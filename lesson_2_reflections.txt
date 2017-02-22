@@ -12,3 +12,8 @@ Working on a new feature while keeping a working version
 
 How do the diagrams help you visualize the branch structure?
 Visual representation is helpful for better understanding
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Changes from both branches are merged togeter
+They are represented that way because it's easier to follow
+
