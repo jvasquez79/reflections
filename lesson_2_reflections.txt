@@ -17,3 +17,6 @@ What is the result of merging two branches together? Why do we represent it in t
 Changes from both branches are merged togeter
 They are represented that way because it's easier to follow
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros: Intelligent conflict detection, fast, easy to find conflicts, conflicts are added to commit history when resolved, less error prone
+Cons: Not perfect, could be merging two pieces of code that together could break something
